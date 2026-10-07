@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="p5_title">Pokémon Explorer</string>
+    <string name="p5_description">Explore the original 151 Pokémon using live data from PokéAPI.</string>
+    <string name="p5_name_label">Name</string>
+    <string name="p5_height_label">Height</string>
+    <string name="p5_weight_label">Weight</string>
+    <string name="p5_waiting">Not loaded</string>
+    <string name="p5_id_format">Pokémon #%1$d</string>
+    <string name="p5_next">Next Pokémon</string>
+    <string name="p5_loading">Loading Pokémon…</string>
+    <string name="p5_ready">Ready. Tap Next Pokémon to load another entry.</string>
+    <string name="p5_network_error">Could not load the next Pokémon. Check your internet connection, then tap Next Pokémon to retry.</string>
+    <string name="p5_parse_error">The response could not be read. Tap Next Pokémon to retry.</string>
+    <string name="p5_source">Source: pokeapi.co</string>
+</resources>
